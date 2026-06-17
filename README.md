@@ -7,3 +7,4 @@
 ```bash
 cd ~/.config/fastfetch
 git clone https://github.com/NirajMandal01/fastfetchrepo.git
+```
